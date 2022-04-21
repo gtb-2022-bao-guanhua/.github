@@ -13,13 +13,13 @@ This is the second picture.
 
 This is my life picture.
 
-![life-picture](https://github.com/gtb-2022-bao-guanhua/.github/blob/main/assets/the-shopping-girl.jpg)
+![life-picture](https://github.com/gtb-2022-bao-guanhua/.github/blob/main/assets/life-picture.jpg)
 
 This is the third picture.
 
 In addition, I like playing badminton very much.
 
-![badminton](https://github.com/gtb-2022-bao-guanhua/.github/blob/main/assets/the-shopping-girl.jpg)
+![badminton](https://github.com/gtb-2022-bao-guanhua/.github/blob/main/assets/badminton.jpg)
 
 
 
