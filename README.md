@@ -15,7 +15,7 @@ As shown in the picture,this is my beauty photo.
 
 臭美照
 
-![Aaron Swartz](https://github.com/gtb-2022-bao-guanhua/.github/blob/main/assets/my-stinky-picture.jpg)
+![my-ID-card](https://github.com/gtb-2022-bao-guanhua/.github/blob/main/assets/my-stinky-picture.jpg)
 
 
 This is the third picture.
