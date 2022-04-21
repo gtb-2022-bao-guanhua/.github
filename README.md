@@ -11,21 +11,15 @@ As shown in the picture,this is my ID picture.
 
 This is the second picture.
 
-As shown in the picture,this is my beauty picture.
+This is my life picture.
 
-臭美照
-
-![my-stinky-picture](https://github.com/gtb-2022-bao-guanhua/.github/blob/main/assets/my-stinky-picture.jpg)
-
+![life-picture](https://github.com/gtb-2022-bao-guanhua/.github/blob/main/assets/the-shopping-girl.jpg)
 
 This is the third picture.
 
-As shown in the picture,this is my beauty picture.
+In addition, I like playing badminton very much.
 
-逛街买衣服
-
-![the-shopping-girl](https://github.com/gtb-2022-bao-guanhua/.github/blob/main/assets/the-shopping-girl.jpg)
+![badminton](https://github.com/gtb-2022-bao-guanhua/.github/blob/main/assets/the-shopping-girl.jpg)
 
 
-In addition, I like playing badminton very much, and I can't find any photos of the sturdy myself. See you on the court if you have a chance.
 
